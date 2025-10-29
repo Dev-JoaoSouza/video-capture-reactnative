@@ -94,7 +94,7 @@ Após a gravação, o usuário pode:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/expo-camera-app.git
+git clone https://github.com/Dev-JoaoSouza/expo-camera-app.git
 
 # Acesse a pasta do projeto
 cd expo-camera-app
